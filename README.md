@@ -125,6 +125,7 @@ For each exercise:
 * [Python Basics](https://pynative.com/python/basics/?utm_source=chatgpt.com)
 * [Python Tutorials](https://pynative.com/python/?utm_source=chatgpt.com)
 * [Python Basic Exercises for Beginners](https://pynative.com/python-basic-exercise-for-beginners/?utm_source=chatgpt.com)
+* [Python Loop Exercises](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/)
 
 ---
 
